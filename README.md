@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Himal
 
-###  B-Tech CSE Student • Developer • Builder
+###  B-Tech CSE Student 
 
 I like turning random ideas into things that actually work.
 
@@ -22,8 +22,8 @@ A platform for tracking movies and TV shows.
 📚 **Excalistudy**  
 An interactive study and learning workspace.
 
-🧰 **Toolbox**  
-A collection of useful web-based tools and utilities.
+🧰 **Collecto**  
+A easy to use modern bookmark manager that actually prevent browser bookmarks from truning into bookmark graveyard.
 
 ---
 
@@ -64,7 +64,7 @@ A collection of useful web-based tools and utilities.
 
 ## 📈 Currently Learning
 
-`C++` → `DSA` → `Linux` → `Docker` → `CI/CD` → `AWS` → `Kubernetes`
+`DSA` → `Agentic AI` → `Linux` → `Docker` → `CI/CD` → `AWS` → `Kubernetes`
 
 ---
 
