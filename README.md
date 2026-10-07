@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Himal
 
-### CSE Student • Developer • Builder
+###  B-Tech CSE Student • Developer • Builder
 
 I like turning random ideas into things that actually work.
 
