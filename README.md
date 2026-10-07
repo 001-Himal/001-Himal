@@ -71,7 +71,7 @@ A collection of useful web-based tools and utilities.
 ## 🌐 Connect
 
 [![Website](https://img.shields.io/badge/Website-himalthapa.tech-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://himalthapa.tech)
-[![GitHub](https://img.shields.io/badge/GitHub-001Himal-181717?style=for-the-badge&logo=github)](https://github.com/001Himal)
+[![GitHub](https://img.shields.io/badge/GitHub-001Himal-181717?style=for-the-badge&logo=github)](https://github.com/001-Himal)
 
 ---
 
