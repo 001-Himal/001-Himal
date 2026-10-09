@@ -4,7 +4,7 @@
 
 I like turning random ideas into things that actually work.
 
-Currently exploring **Software Engineering, Cloud & DevOps, and AI-native development.**
+Currently exploring **AI, Software Engineering, Cloud & DevOps, and AI-native development.**
 
 ---
 
