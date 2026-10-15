@@ -6,26 +6,6 @@ I like turning random ideas into things that actually work.
 
 Currently exploring **AI, Software Engineering, Cloud & DevOps, and AI-native development.**
 
----
-
-## 🚀 What I'm Building
-
-📝 **StickyNote**  
-A fast, minimal desktop sticky-notes app built for everyday use.
-
-♟️ **Chess 2**  
-An experimental multiplayer chess project with custom gameplay.
-
-🎬 **MediaTrackList**  
-A platform for tracking movies and TV shows.
-
-📚 **Excalistudy**  
-An interactive study and learning workspace.
-
-🧰 **Collecto**  
-A easy to use modern bookmark manager that actually prevent browser bookmarks from truning into bookmark graveyard.
-
----
 
 ## 🛠️ Tech Stack
 
